@@ -1,0 +1,17 @@
+<html>
+ 
+<head>
+<title>Fontes especiais</title>
+</head>
+ 
+<frameset rows="0,*" border="0">
+<frame name="header" scrolling="no" noresize target="main">
+<frame name="main" src="http://pt.cooltext.com/">
+<noframes>
+<body>
+ 
+</body>
+</noframes>
+</frameset>
+ 
+</html>
